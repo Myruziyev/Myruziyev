@@ -1,0 +1,148 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: inherit;
+  list-style: none;
+  text-decoration: none;
+  user-select: none;
+}
+.gdiv {
+  justify-content: center;
+  width: 1400px;
+  height: 1400px;
+}
+.divp {
+  width: 1000px;
+  height: 1000px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.div1 {
+  border: 0.5px solid black;
+  border-radius: 10px;
+  background-color: blueviolet;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  gap: 5px;
+}
+.div2 {
+  background-color: orange;
+  border: 0.5px solid black;
+  border-radius: 10px;
+  width: 50px;
+  height: 50px;
+}
+.div3 {
+  border: 0.5px solid black;
+  background-color: blueviolet;
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+}
+.div4 {
+  border: 0.5px solid black;
+  background-color: blueviolet;
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.div5 {
+  border: 0.5px solid black;
+  background-color: blueviolet;
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+}
+.div6 {
+  border: 0.5px solid black;
+  border-radius: 10px;
+  background-color: blueviolet;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  gap: 5px;
+}
+.div7 {
+  border: 0.5px solid black;
+  border-radius: 10px;
+  background-color: blueviolet;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  gap: 5px;
+  justify-content: end;
+}
+.div8 {
+  border: 0.5px solid black;
+  background-color: blueviolet;
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+.div9 {
+  border: 0.5px solid black;
+  background-color: blueviolet;
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+}
+.div10 {
+  border: 0.5px solid black;
+  border-radius: 10px;
+  background-color: blueviolet;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  gap: 5px;
+}
+.div11 {
+  border: 0.5px solid black;
+  border-radius: 10px;
+  background-color: blueviolet;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  gap: 5px;
+  justify-content: start;
+  align-items: end;
+}
+.div12 {
+  border: 0.5px solid black;
+  border-radius: 10px;
+  background-color: blueviolet;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  gap: 5px;
+  justify-content: start;
+  align-items: center;
+}
+.div13 {
+  border: 0.5px solid black;
+  border-radius: 10px;
+  background-color: blueviolet;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  gap: 5px;
+  justify-content: space-evenly;
+}
